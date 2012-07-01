@@ -37,9 +37,11 @@ PRODUCT_COPY_FILES += \
     vendor/lge/pecan/proprietary/lib/libcm.so:system/lib/libcm.so \
     vendor/lge/pecan/proprietary/lib/libqueue.so:system/lib/libqueue.so \
     vendor/lge/pecan/proprietary/lib/liblgerft.so:system/lib/liblgerft.so \
+    vendor/lge/pecan/proprietary/lib/liblgdrmwbxml.so:system/lib/liblgdrmwbxml.so \
     vendor/lge/pecan/proprietary/lib/libdss.so:system/lib/libdss.so \
     vendor/lge/pecan/proprietary/lib/libbcmwl.so:system/lib/libbcmwl.so \
     vendor/lge/pecan/proprietary/lib/libwmsts.so:system/lib/libwmsts.so \
+    vendor/lge/pecan/proprietary/lib/libdll.so:system/lib/libdll.so \
     vendor/lge/pecan/proprietary/lib/libdsutils.so:system/lib/libdsutils.so \
     vendor/lge/pecan/proprietary/lib/liblgdrm.so:system/lib/liblgdrm.so \
     vendor/lge/pecan/proprietary/lib/libsnd.so:system/lib/libsnd.so \
